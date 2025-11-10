@@ -3,6 +3,9 @@
 A *build* system heavily inspired by [nob](https://github.com/tsoding/nob)
 and a strong dislike for the current zig build system.
 
+*note:* no.zig is provided to build the example(src/example.zig), to use the library,
+just download the not.zig to your project folder and get srtarted!
+
 ## Goals:
 
 - provide learning and experience in zig programming to myself
@@ -13,6 +16,7 @@ and a strong dislike for the current zig build system.
 
 - [x] get it to work
 - [x] build raylib for windows from linux
+- [ ] better documentation
 - [ ] rework the package system
 - [ ] match features in **nob**
 
