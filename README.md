@@ -1,22 +1,22 @@
-#not.zig
+# not.zig
 
 A *build* system heavily inspired by [nob](https://github.com/tsoding/nob)
 and a strong dislike for the current zig build system.
 
-##Goals:
+## Goals:
 
 - provide learning and experience in zig programming to myself
 - keep the command line tools transparent to the user
 - mirror build functionality provided by **nob**
 
-##TODO:
+## TODO:
 
 - [x] get it to work
 - [x] build raylib for windows from linux
 - [ ] rework the package system
 - [ ] match features in **nob**
 
-##Usage:
+## Usage:
 The following is an exceedingly simple example.
 1. Copy "not.zig" to your project directory.
 2. Create a "no.zig" (can be named anything except "not.zig").
